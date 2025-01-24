@@ -1,4 +1,5 @@
 # chaz-trev-python-project
 ---
-Learning Python to build a project
+### What this project is about
+In this project we will attempt to use Pandas to change and interpret data in an effort to learn python.
 [My University](https://www.byui.edu/)
