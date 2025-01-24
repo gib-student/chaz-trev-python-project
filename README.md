@@ -3,4 +3,4 @@
 ### What this project is about
 In this project we will attempt to use Pandas to change and interpret data in an effort to learn python.
 
-[My University](https://www.byui.edu/)
+[Our University](https://www.byui.edu/)
